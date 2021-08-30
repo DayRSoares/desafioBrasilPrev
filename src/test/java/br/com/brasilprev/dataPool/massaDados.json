@@ -1,0 +1,46 @@
+{
+  "PESSOAS": [
+    {
+      "codigo": 0,
+      "nome": "Jeremias Santos da Silva",
+      "cpf": "32541221542",
+      "enderecos": [
+        {
+          "logradouro": "Quadra 4 Conjunto 24",
+          "numero": 196,
+          "complemento": "Bairro",
+          "bairro": "Bairro Sul  (Bairro Sul - Riacho)",
+          "cidade": "Distrito Federal",
+          "estado": "DF"
+        }
+      ],
+      "telefones": [
+        {
+          "ddd": "61",
+          "numero": "981007641"
+        }
+      ]
+    },
+    {
+      "codigo": 0,
+      "nome": "Jeremias Santos da Silva",
+      "cpf": "%s",
+      "enderecos": [
+        {
+          "logradouro": "Quadra 4 Conjunto 24",
+          "numero": 196,
+          "complemento": "Bairro",
+          "bairro": "Bairro Sul  (Bairro Sul - Riacho)",
+          "cidade": "Distrito Federal",
+          "estado": "DF"
+        }
+      ],
+      "telefones": [
+        {
+          "ddd": "%s",
+          "numero": "%s"
+        }
+      ]
+    }
+  ]
+}
